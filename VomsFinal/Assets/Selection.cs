@@ -2,20 +2,48 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Selection : MonoBehaviour
+public class Selection : MonoBehaviour 
 {
-	public void Red()
-	{
-		GetComponent<Renderer>().material.color = Color.red;
-	}
-	
-	public void Blue()
-	{
-		GetComponent<Renderer>().material.color = Color.blue;
-	}
-
-	public void Black()
-	{
-		GetComponent<Renderer>().material.color = Color.black;
-	}
+    public void Test(string buttonName)
+    {
+        switch (buttonName)
+        {
+        case "0":
+            print (buttonName);
+            break;
+        case "1":
+            print (buttonName);
+            break;
+	case "2":
+            print (buttonName);
+            break;
+	case "3":
+            print (buttonName);
+            break;
+	case "4":
+            print (buttonName);
+            break;
+	case "5":
+            print (buttonName);
+            break;
+	case "6":
+            print (buttonName);
+            break;
+	case "7":
+            print (buttonName);
+            break;
+	case "8":
+            print (buttonName);
+            break;
+	case "9":
+            print (buttonName);
+            break;
+	case "10":
+            print (buttonName);
+            break;
+        default:
+            print ("Error");
+            break;
+        }
+    }
 }
