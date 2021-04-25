@@ -20,4 +20,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/VorVertical.unity
     guid: b6832717c1a85c84d978ddc4a628b4e0
+  - enabled: 1
+    path: Assets/Scenes/VerticalSaccades.unity
+    guid: c5d3a3800f6386f46bd62a8e47eeb2e2
+  - enabled: 1
+    path: Assets/Scenes/HorizontalSaccades.unity
+    guid: 1eef0cb3a43df8d45b2762bf7bb6ed92
+  - enabled: 1
+    path: Assets/Scenes/VMS.unity
+    guid: d27319a1601290c46b2808c93a88e4d1
   m_configObjects: {}
