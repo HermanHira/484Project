@@ -4901,7 +4901,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &518720593
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4957,11 +4957,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 0}
+  imgCircle: {fileID: 759699008}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1840803254}
         m_MethodName: LoadScene
         m_Mode: 5
         m_Arguments:
@@ -4969,7 +4969,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: VorHorizontal
+          m_StringArgument: VMS
           m_BoolArgument: 1
         m_CallState: 2
   totalTime: 2
@@ -5061,19 +5061,19 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 518720592}
-  m_LocalRotation: {x: 0.6813105, y: -0, z: -0, w: 0.73199457}
-  m_LocalPosition: {x: 0, y: 0, z: 0.93330336}
-  m_LocalScale: {x: 0.03, y: 0.03, z: 0.29999998}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.29999998, y: 0.29999998, z: 0.29999998}
   m_Children:
   - {fileID: 2081079516}
   - {fileID: 668878237}
   - {fileID: 526544212}
-  m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_Father: {fileID: 1583726616}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4.470001, y: 3.7889452}
+  m_AnchoredPosition: {x: 44.700012, y: -51.800037}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &526544211
@@ -12472,6 +12472,17 @@ MonoBehaviour:
           m_StringArgument: SampleScene
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 518720592}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
   totalTime: 2
   gvrTimer: 0
 --- !u!114 &1482439916
@@ -12961,6 +12972,7 @@ RectTransform:
   - {fileID: 364569536}
   - {fileID: 329684737}
   - {fileID: 1893445576}
+  - {fileID: 518720598}
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 85.892006, y: 0, z: 0}
