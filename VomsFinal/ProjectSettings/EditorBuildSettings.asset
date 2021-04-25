@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Initial screening.unity
     guid: 03cf9033932399a4385693297a0eebe0
+  - enabled: 1
+    path: Assets/Scenes/VorHorizontal.unity
+    guid: 7921c241c01da674ba17deb7fdd70315
+  - enabled: 1
+    path: Assets/Scenes/VorVertical.unity
+    guid: b6832717c1a85c84d978ddc4a628b4e0
   m_configObjects: {}
