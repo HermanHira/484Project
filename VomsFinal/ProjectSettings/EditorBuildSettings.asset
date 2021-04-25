@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/VMS.unity
     guid: d27319a1601290c46b2808c93a88e4d1
+  - enabled: 1
+    path: Assets/Scenes/Convergence.unity
+    guid: eba5f10b82de0fc4f9c38fb70607d637
   m_configObjects: {}
