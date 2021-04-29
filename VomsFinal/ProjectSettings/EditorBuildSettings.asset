@@ -9,43 +9,43 @@ EditorBuildSettings:
     path: Assets/Scenes/Opening Menu.unity
     guid: d4bb9d68b02482144af0d695a31ca8a8
   - enabled: 1
-    path: Assets/Scenes/BL Symptoms.unity
+    path: Assets/Scenes/BL Symptom Score.unity
     guid: 03cf9033932399a4385693297a0eebe0
   - enabled: 1
-    path: Assets/Scenes/SmoothPursuits.unity
+    path: Assets/Scenes/SP.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/SmoothPursuits Symptom Score.unity
+    path: Assets/Scenes/SP Symptom Score.unity
     guid: 6b88cccc646169f4aaf2f02c89722880
   - enabled: 1
-    path: Assets/Scenes/HorizontalSaccades.unity
+    path: Assets/Scenes/HS.unity
     guid: 1eef0cb3a43df8d45b2762bf7bb6ed92
   - enabled: 1
-    path: Assets/Scenes/HorizontalSaccades Symptom Score.unity
+    path: Assets/Scenes/HS Symptom Score.unity
     guid: 3b380b661ea1e7442b0a5cbb6bf99500
   - enabled: 1
-    path: Assets/Scenes/VerticalSaccades.unity
+    path: Assets/Scenes/VS.unity
     guid: c5d3a3800f6386f46bd62a8e47eeb2e2
   - enabled: 1
-    path: Assets/Scenes/VerticalSaccades Symptom Score.unity
+    path: Assets/Scenes/VS Symptom Score.unity
     guid: f28ab7ccdd5a8c74e9509e52bb251fa2
   - enabled: 1
-    path: Assets/Scenes/Convergence.unity
+    path: Assets/Scenes/NPC.unity
     guid: eba5f10b82de0fc4f9c38fb70607d637
   - enabled: 1
-    path: Assets/Scenes/Convergence Symptom Score.unity
+    path: Assets/Scenes/NPC Symptom Score.unity
     guid: d1eb28e89dc59824daf1b7d34d13442a
   - enabled: 1
-    path: Assets/Scenes/VorHorizontal.unity
+    path: Assets/Scenes/VOR - H.unity
     guid: 7921c241c01da674ba17deb7fdd70315
   - enabled: 1
-    path: Assets/Scenes/VorHorizontal Symptom Score.unity
+    path: Assets/Scenes/VOR - H Symptom Score.unity
     guid: 2eee931e4be08944aba2ca697b17a00d
   - enabled: 1
-    path: Assets/Scenes/VorVertical.unity
+    path: Assets/Scenes/VOR - V.unity
     guid: b6832717c1a85c84d978ddc4a628b4e0
   - enabled: 1
-    path: Assets/Scenes/VorVertical Symptom Score.unity
+    path: Assets/Scenes/VOR - V Symptom Score.unity
     guid: 08964909bb969df4294abe41969099db
   - enabled: 1
     path: Assets/Scenes/VMS.unity
@@ -54,6 +54,6 @@ EditorBuildSettings:
     path: Assets/Scenes/VMS Symptom Score.unity
     guid: 1058a821b63f21e4587157a85d0ba78b
   - enabled: 1
-    path: Assets/Scenes/EndingScene.unity
+    path: Assets/Scenes/Ending Menu.unity
     guid: 2d6ea1f5549d6c44295c74571bd9131a
   m_configObjects: {}

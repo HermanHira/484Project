@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657815, g: 0.49641192, b: 0.57481617, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -230,7 +230,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -436,7 +435,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -642,7 +640,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -1048,7 +1045,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -1241,7 +1237,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -1614,7 +1609,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -1820,7 +1814,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -2183,7 +2176,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -2688,7 +2680,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -2905,7 +2896,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -3267,7 +3257,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -3629,7 +3618,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -4152,7 +4140,7 @@ GameObject:
   - component: {fileID: 510780755}
   - component: {fileID: 510780754}
   m_Layer: 5
-  m_Name: Smooth Pursuits
+  m_Name: Conclusion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4209,7 +4197,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Smooth Pursuits
+  m_Text: Conclusion
 --- !u!222 &510780755
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4360,7 +4348,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -4566,7 +4553,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -5235,7 +5221,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -5558,8 +5543,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Follow the dot with you eyes as it moves across the screen, keep your head
-    forward and center.
+  m_Text: Congratulations, you have finished the assessment. Please click next to
+    continue.
 --- !u!222 &677211099
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5898,7 +5883,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -6315,7 +6299,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -6599,7 +6582,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -7018,7 +7000,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -7224,7 +7205,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -7430,7 +7410,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -7636,7 +7615,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -7842,7 +7820,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -8282,7 +8259,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -8566,7 +8542,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -8772,7 +8747,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -9056,7 +9030,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -9262,7 +9235,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -9546,7 +9518,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -9830,7 +9801,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -10036,7 +10006,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -10242,7 +10211,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -10448,7 +10416,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -10733,7 +10700,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -10939,7 +10905,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -11210,7 +11175,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -11427,7 +11391,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -11633,7 +11596,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -11998,7 +11960,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -12810,7 +12771,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -13090,7 +13050,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -13296,7 +13255,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -13502,7 +13460,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -13708,7 +13665,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -13914,7 +13870,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -14120,7 +14075,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -14482,7 +14436,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -14845,7 +14798,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -15062,7 +15014,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -15377,7 +15328,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1722595029}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -15621,7 +15571,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Baseline Symptom Screening
+  m_Text: Visual Motion Sensitivity Symptom Screening
 --- !u!222 &1966528938
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15777,7 +15727,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Begin
+  m_Text: Next
 --- !u!222 &2019789966
 CanvasRenderer:
   m_ObjectHideFlags: 0
