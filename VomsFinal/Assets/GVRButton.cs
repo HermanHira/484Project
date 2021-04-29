@@ -7,7 +7,7 @@ using UnityEngine.Events;
 public class GVRButton : MonoBehaviour
 {
 
-    public Image imgCircle;
+    //public Image imgCircle;
     public UnityEvent GVRClick;
     public float totalTime = 2;
     bool gvrStatus;
@@ -19,7 +19,11 @@ public class GVRButton : MonoBehaviour
         if(gvrStatus)
 	{
 	    gvrTimer += Time.deltaTime;
-	    imgCircle.fillAmount = gvrTimer / totalTime;
+	    //imgCircle.fillAmount = gvrTimer / totalTime;
+	} 
+	else
+	{
+	
 	}
 	if(gvrTimer > totalTime)
 	{
@@ -36,7 +40,7 @@ public class GVRButton : MonoBehaviour
     {
         gvrStatus = false;
 	gvrTimer = 0;
-	imgCircle.fillAmount = 0;
+	//imgCircle.fillAmount = 0;
     }
 
 }
