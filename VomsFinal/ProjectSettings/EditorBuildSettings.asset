@@ -53,4 +53,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/VMS Symptom Score.unity
     guid: 1058a821b63f21e4587157a85d0ba78b
+  - enabled: 1
+    path: Assets/Scenes/EndingScene.unity
+    guid: 2d6ea1f5549d6c44295c74571bd9131a
   m_configObjects: {}
