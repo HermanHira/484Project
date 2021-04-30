@@ -749,7 +749,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35891b4e6d10e06468b3fa5e9e0a81df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCircle: {fileID: 1899131709}
   GVRClick:
     m_PersistentCalls:
       m_Calls:
@@ -761,7 +760,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: HorizontalSaccades Symptom Score
+          m_StringArgument: HS Symptom Score
           m_BoolArgument: 1
         m_CallState: 2
   totalTime: 2
