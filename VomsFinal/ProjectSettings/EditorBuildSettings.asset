@@ -33,6 +33,12 @@ EditorBuildSettings:
     path: Assets/Scenes/NPC.unity
     guid: eba5f10b82de0fc4f9c38fb70607d637
   - enabled: 1
+    path: Assets/Scenes/NPC2.unity
+    guid: 41e25d1f51774c64c939ae7c460523e7
+  - enabled: 1
+    path: Assets/Scenes/NPC3.unity
+    guid: 0f0c6527791588940920dfed4fcd3217
+  - enabled: 1
     path: Assets/Scenes/NPC Symptom Score.unity
     guid: d1eb28e89dc59824daf1b7d34d13442a
   - enabled: 1
